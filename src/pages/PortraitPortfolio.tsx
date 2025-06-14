@@ -16,12 +16,12 @@ const PortraitPortfolio = () => {
 
   const portraitImages = [
     {
-      src: "/lovable-uploads/32a17cc2-c2e6-425c-885c-106fb0be22d7.png",
+      src: "public/imgs/c46d26c2-e6d1-4e2f-8292-72d52eeda405.png",
       alt: "Creative portrait with feathers",
       title: "Artistic Expression"
     },
     {
-      src: "/lovable-uploads/c46d26c2-e6d1-4e2f-8292-72d52eeda405.png",
+      src: "public/imgs/32a17cc2-c2e6-425c-885c-106fb0be22d7.png",
       alt: "Portrait with blue turban and glitter",
       title: "Cultural Beauty"
     },
