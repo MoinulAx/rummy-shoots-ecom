@@ -15,6 +15,9 @@ import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
 
+// Simply visit the [Lovable Project](https://lovable.dev/projects/6668df16-4690-48b4-a63f-275c930d14c3) and start prompting.
+// **URL**: https://lovable.dev/projects/6668df16-4690-48b4-a63f-275c930d14c3
+
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <ThemeProvider>
